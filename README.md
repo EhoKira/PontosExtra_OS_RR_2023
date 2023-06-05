@@ -2,4 +2,5 @@
 Repositório destinado as atividades de ponto extra na Disciplina de Sistemas Operacionais.
 
 # Leitura e Manipulação de Arquivo Txt
+<img src= https://github.com/EhoKira/PontosExtra_OS_RR_2023/blob/6f34f8f0c87883336d691237ff2f688757308454/Leitura_de_ArquivoTxt/Testes/C%C3%B3digoVSCode.jpg>
 
