@@ -1,5 +1,5 @@
 # PontosExtra_OS_RR_2023
-Repositório destinado as atividades de ponto extra na Disciplina de Sistemas Operacionais.
+Repositório destinado as atividades de ponto extra na Disciplina de Sistemas Operacionais I.
 
 # Leitura e Manipulação de Arquivo Txt
 Criação de um programa em Linguagem C para manipulação de arquivos .Txt com mais de 1 milhão de linhas.
