@@ -110,7 +110,7 @@ int main() {
     seekLine(666);
   
 // vai truncar o arquivo para 100 bytes
-    if (ftruncate(FILE_NEW, 100) == -1) {
+    if (truncate(FILE_NEW, 100) == -1) {
             perror("Erro ao truncar o arquivo");
             exit(1);
         }
