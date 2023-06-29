@@ -11,7 +11,7 @@ Criação de um programa em Linguagem C para manipulação de arquivos .Txt com 
 
 # Certificados Sololearn
 ## Links
-Introduction to C
+- Introduction to C
 https://www.sololearn.com/certificates/CC-3ITAQMQZ
-Introduction to C++
+- Introduction to C++
 https://www.sololearn.com/certificates/CC-WVIXEMER
