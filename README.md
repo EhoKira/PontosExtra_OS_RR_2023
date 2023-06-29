@@ -10,7 +10,7 @@ Criação de um programa em Linguagem C para manipulação de arquivos .Txt com 
 <img src= "https://github.com/EhoKira/PontosExtra_OS_RR_2023/blob/f6304c98af02b0b2cdd661805ff9b2c57080faba/Leitura_de_ArquivoTxt/Testes/C%C3%B3digoReplit.jpg" alt= "Código Replit">
 
 # Certificados Sololearn
-### Links
+# Links
 - Introduction to C
 https://www.sololearn.com/certificates/CC-3ITAQMQZ
 - Introduction to C++
